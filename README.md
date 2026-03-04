@@ -71,7 +71,18 @@ Ver el archivo password_generator.py para el código completo.
 [![My Skills](https://skillicons.dev/icons?i=python,github,linux,vscode&theme=light&perline=8)](https://skillicons.dev)
 
 
+--- 
+
+## 📄 Licencia
+Libre, usalo como quieras
+<div align="center">
+  Hecho con 💙 y neones
+</div>
+
 ---
+
+## ⭐ Si te gustó este proyecto, no olvides dejar una estrella en GitHub!
+
 
 
 ## 📊 Licencia
